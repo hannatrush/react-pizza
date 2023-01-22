@@ -1,3 +1,6 @@
+## Welcome! The website is live at [https://react-pizza.trush.dev](https://react-pizza.trush.dev)
+Thanks for checking it out!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
